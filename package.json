@@ -1,0 +1,12 @@
+{
+    "name": "{NAME}",
+    "version": "1.0.0",
+    "description": "",
+    "main": "compiled/index.js",
+    "scripts": {
+        "build": "tsc",
+        "run": "npm run build && node ."
+    },
+    "author": "Aery",
+    "license": "UNLICENSED"
+}
