@@ -11,6 +11,7 @@
     "author": "Aery",
     "license": "UNLICENSED",
     "devDependencies": {
-        "@types/node": "^14.0.13"
+        "@types/node": "^14.0.13",
+        "typescript": "^3.9.5"
     }
 }
